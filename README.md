@@ -1,7 +1,4 @@
-# JetbrainsAcademy_CoffeeMachin
-
-In this project, you can learn a lot about algorithm combined with handling numbers. 
-    
+# JetbrainsAcademy_CoffeeMachin 
 
 Available actions: buy, fill, take, remaining, back, exit  
 Available coffees: 1 - espresso, 2 - latte, 3 - cappuccino  
